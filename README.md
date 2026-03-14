@@ -22,7 +22,11 @@
 - [x] 生成并配置 GitHub SSH Key
 - [x] 创建 GitHub 仓库 ai-coding-demo
 - [x] 安装 codebuddy-code 技能和 CLI
-- [ ] 生成第一个 Spring Boot 项目
+- [x] 生成第一个 Spring Boot 项目 (3.2.3)
+  - [x] 创建 DemoApplication 主类
+  - [x] 创建 HelloController (两个接口)
+  - [x] 配置 application.properties
+  - [x] 项目编译成功 ✓
 - [ ] 尝试用 AI 写代码
 
 ---
